@@ -1,0 +1,3 @@
+# Arquivo teste.txt
+
+* Este arquivo deve ser ignorado pelo gitignore
